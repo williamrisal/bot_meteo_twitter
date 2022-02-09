@@ -14,9 +14,9 @@ var openWeatherMapURL = `http://api.openweathermap.org/data/2.5/weather?q=Marsei
 
 var T = new Twit({
     consumer_key:         '5nWtQa0YzwTDObJ5k8vP49MdZ',
-    consumer_secret:      'RHSPuufhlYsTsJ2uH8njabiQp6ylszhxrPabfCTbbxSl6MGgCW',
-    access_token:         '1399025356745629697-IBaMZ7MnPuhqs9J9OaZYfTUQ17u8gA',
-    access_token_secret:  's3mfzgJrtrpfH5b9t2LnlbaEXsIAillYGJyhwAQXtEica',
+    consumer_secret:      '$',
+    access_token:         '$',
+    access_token_secret:  '$',
     timeout_ms:           60*1000,  // optional HTTP request timeout to apply to all requests.
     strictSSL:            true,     // optional - requires SSL certificates to be valid.
   })
